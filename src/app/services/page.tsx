@@ -34,7 +34,7 @@ export default function Blog() {
 
 
     return (
-        <div className="items-center justify-items-center min-h-screen pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
+        <div className="items-center justify-items-center p-8 min-h-screen pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
             <Navbar />
             <motion.div
                 initial={{ opacity: 0, y: 50 }}
