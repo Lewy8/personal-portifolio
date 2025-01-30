@@ -36,7 +36,7 @@ export default function RootLayout({
         <div className="fixed right-0 top-1/2 transform -translate-y-1/2 z-50">
           <div className="flex flex-col gap-4 bg-white p-2 rounded-l-lg shadow-lg">
             <a
-              href="https://www.facebook.com/your-profile"
+              href="https://www.facebook.com/share/19nNP26Du7/"
               target="_blank"
               rel="noopener noreferrer"
               className="transform transition duration-300 ease-in-out hover:scale-110 hover:text-blue-600"
@@ -44,7 +44,7 @@ export default function RootLayout({
               <FaFacebook size={24} color="#4267B2" />
             </a>
             <a
-              href="https://twitter.com/your-handle"
+              href="https://x.com/LNhuguti?t=ywudkPWhWGt6AY85mNY-2g&s=09"
               target="_blank"
               rel="noopener noreferrer"
               className="transform transition duration-300 ease-in-out hover:scale-110 hover:text-blue-400"
@@ -52,7 +52,7 @@ export default function RootLayout({
               <FaTwitter size={24} color="#1DA1F2" />
             </a>
             <a
-              href="https://www.instagram.com/your-handle"
+              href="https://www.instagram.com/_nhuguti?igsh=M2x0anZ0ZTBjbDFh"
               target="_blank"
               rel="noopener noreferrer"
               className="transform transition duration-300 ease-in-out hover:scale-110 hover:text-pink-500"
@@ -60,7 +60,7 @@ export default function RootLayout({
               <FaInstagram size={24} color="#E1306C" />
             </a>
             <a
-              href="https://www.linkedin.com/in/your-profile"
+              href="https://www.linkedin.com/in/lewis-nhuguti-1b5473291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
               target="_blank"
               rel="noopener noreferrer"
               className="transform transition duration-300 ease-in-out hover:scale-110 hover:text-blue-700"
@@ -68,7 +68,7 @@ export default function RootLayout({
               <FaLinkedinIn size={24} color="#0A66C2" />
             </a>
             <a
-              href="https://github.com/your-username"
+              href="https://github.com/Lewy8"
               target="_blank"
               rel="noopener noreferrer"
               className="transform transition duration-300 ease-in-out hover:scale-110 hover:text-gray-700"
